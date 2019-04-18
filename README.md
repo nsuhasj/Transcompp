@@ -20,7 +20,7 @@ Navigate to the *Mac OS* folder and unzip the the *Transcompp_MacOS.zip* file. R
 
 
 ## Usage
-When using the MATLAB package, open MATLAB command line and type *Transcompp*. 
+When using the MATLAB package, check for the installed Transcompp App in the Apps toolbar. 
 
 When using the Windows or Mac OS versions, double click the executable files to start TRANSCOMPP. 
 
